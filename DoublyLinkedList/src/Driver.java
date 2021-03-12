@@ -167,7 +167,7 @@ public class Driver {
 		
 		list.traverse();
 		
-		//list.traverseBack();
+		list.traverseBack();
 
 	}
 
